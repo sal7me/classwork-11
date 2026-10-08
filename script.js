@@ -81,20 +81,20 @@
 // console.log(getGrade(40));
 // // Failed
 
-function getGrade(score) {
-  //     true           true
-  if (score >= 90 && score <= 100) {
-    return "Excellent";
-  } else if (score >= 70 && score <= 89) {
-    return "Good";
-  } else if (score >= 50 && score <= 69) {
-    return "Pased";
-  } else if (score >= 0 && score <= 49) {
-    return "Failed";
-  }
-}
-console.log(getGrade(95));
+// function getGrade(score) {
+//   //     true           true
+//   if (score >= 90 && score <= 100) {
+//     return "Excellent";
+//   } else if (score >= 70 && score <= 89) {
+//     return "Good";
+//   } else if (score >= 50 && score <= 69) {
+//     return "Pased";
+//   } else if (score >= 0 && score <= 49) {
+//     return "Failed";
+//   }
+// }
+// console.log(getGrade(95));
 
-console.log(getGrade(75));
+// console.log(getGrade(75));
 
-console.log(getGrade(40));
+// console.log(getGrade(40));
